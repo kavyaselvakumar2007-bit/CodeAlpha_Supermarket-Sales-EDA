@@ -61,6 +61,15 @@ Visualization Purpose
      Transactions with discounts generally have higher average revenue, suggesting that customers tend to spend more when there are offers available.
 
      Discounts seem to encourage larger purchases.
+     
+
+📌 Note about the Data Files
+
+    The original dataset comes with four CSV files.
+    In this repository, only annex1, annex3 and annex4 are uploaded.
+    The file annex2.csv is not included because it is very large and GitHub won’t allow the full upload.
+    Also, my notebook already uses a smaller sampled version, so the full file is not needed to run the project.
+    
 
 🛠 Tech Stack
 
@@ -86,5 +95,6 @@ Open the notebook and run each cell step-by-step.
     Domain: Data Analytics
     Task: Exploratory Data Analysis
     Intern: Kavya Dharshini S
+
 
 
