@@ -71,6 +71,7 @@ Pandas Data Cleaning & Feature Extraction
 Matplotlib Visualizations
 Jupyter Notebook Development Environment
 
+
 🚀 How to Run This Project
 
 pip install pandas matplotlib
@@ -78,9 +79,12 @@ jupyter notebook
 
 Open the notebook and run each cell step-by-step.
 
+
+
 👩‍💻 Internship Details
 
 Organization: CodeAlpha
 Domain: Data Analytics
 Task: Exploratory Data Analysis
 Intern: Kavya Dharshini S
+
